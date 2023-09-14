@@ -1,8 +1,7 @@
 ---
-title: Celestial Mind-A Digital Garden.
+title: Digital Mind of Stardust.
 ---
 
-<h1><strong>Digital Mind of Stardust.</strong></h1>
 <h3>Aspiring physicist, and a Self-Made Consipiracy Theorist.</h3>
 
 

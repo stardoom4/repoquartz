@@ -1,5 +1,6 @@
 ---
 title: Index
 permalink: /archives/
-tags: Main
+tags:
+  - Main
 ---

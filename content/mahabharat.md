@@ -3,6 +3,7 @@ title: Why Mahabharat Happened?
 draft: false
 tags:
   - Hinduism
+  - 🧑‍🚀 Data
 ---
 
 ![Mahabharat](https://images.herzindagi.info/image/2023/Mar/mahabharat-people-who-are-still-alive-story.jpg)

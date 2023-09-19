@@ -1,5 +1,8 @@
 ---
 title: W-I-L
+tags:
+  - Tweets
+  - Music Excerpt
 ---
 *What is love?<br>
 Oh baby, don't hurt me<br>

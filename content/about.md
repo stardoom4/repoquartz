@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 layout: about 
-title: 🧑‍🚀 About Me and 🦋 This Garden.
+title: 🧑‍🚀 About Me and This Garden.
 tags:
   - Main
 ---

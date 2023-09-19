@@ -189,7 +189,7 @@ a {
 
 .footnotes {
   margin-top: 2rem;
-  border-top: 1px solid var(--lightgray);
+  border-top: 1px solid #05d7e8;
 }
 
 input[type="checkbox"] {
@@ -206,7 +206,7 @@ input[type="checkbox"] {
   height: 16px;
 
   &:checked {
-    border-color: var(--secondary);
+    border-color: #05d7e8 ;
     background-color: var(--secondary);
 
     &::after {
@@ -217,7 +217,7 @@ input[type="checkbox"] {
       width: 4px;
       height: 8px;
       display: block;
-      border: solid var(--light);
+      border: solid #05d7e8;
       border-width: 0 2px 2px 0;
       transform: rotate(45deg);
     }
@@ -226,7 +226,7 @@ input[type="checkbox"] {
 
 blockquote {
   margin: 1rem 0;
-  border-left: 3px solid var(--secondary);
+  border-left: 3px solid #05d7e8;
   padding-left: 1rem;
   transition: border-color 0.2s ease;
 }
@@ -238,7 +238,7 @@ h4,
 h5,
 h6,
 thead {
-  font-family: var(--headerFont);
+  font-family: Garamond, serif;
   color: var(--dark);
   font-weight: revert;
   margin-bottom: 0;
@@ -263,7 +263,7 @@ h6 {
     transition: opacity 0.2s ease;
     transform: translateY(-0.1rem);
     display: inline-block;
-    font-family: var(--codeFont);
+    font-family: Garamond, serif;
     user-select: none;
   }
 
@@ -304,7 +304,7 @@ div[data-rehype-pretty-code-fragment] {
   position: relative;
 
   & > div[data-rehype-pretty-code-title] {
-    font-family: var(--codeFont);
+    font-family: Garamond, serif;
     font-size: 0.9rem;
     padding: 0.1rem 0.5rem;
     border: 1px solid var(--lightgray);

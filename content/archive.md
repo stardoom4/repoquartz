@@ -5,4 +5,5 @@ tags:
   - Main
 ---
 - <a href="/mahabharat.md">Mahabharat</a>
+- <a href="/singularity.md">Singularity</a>
 - <a href="/wil.md">W-I-L</a>

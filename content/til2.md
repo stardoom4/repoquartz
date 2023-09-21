@@ -1,5 +1,5 @@
 ---
-title: Today-I-Learnt Linux commands and [SSH](https://www.ssh.com/academy/ssh) (some basics)
+title: Linux commands and SSH (some basics)
 tags:
    - today i learnt
    - linux

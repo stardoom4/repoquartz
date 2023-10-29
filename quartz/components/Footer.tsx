@@ -15,7 +15,9 @@ export default ((opts?: Options) => {
         <hr />
         <p>
           Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
+          <br><a rel="me" href="https://defcon.social/@zarathustra">Mastodon</a>
         </p>
+
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>

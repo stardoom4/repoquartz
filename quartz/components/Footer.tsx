@@ -14,11 +14,11 @@ export default ((opts?: Options) => {
       <footer>
         <hr />
         <p>
-          Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
-          <br><a rel="me" href="https://defcon.social/@zarathustra">Mastodon</a>
-        </p>
+          Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}</p>
+          
 
-        <ul>
+
+<ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
               <a href={link}>{text}</a>

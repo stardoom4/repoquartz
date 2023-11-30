@@ -1,5 +1,5 @@
 ---
-title: Digital Mind of Stardust.
+title: Celestial Mind.
 published: true
 ---
 
@@ -7,4 +7,4 @@ published: true
 
 This is my Digital Garden where I will write about my thoughts and The things I am have learned. You may want to check the <a href="/archive.md">Index</a> page for all of my notes.<br>Tag can be Found here: <a href="https://garud.netlify.app/tags/"> Tags</a><br>
 <a href="/microblog.md">Microblog</a><br>
-<a rel="me" href="https://defcon.social/@zarathustra">Mastodon</a>
+

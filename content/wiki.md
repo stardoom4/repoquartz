@@ -1,5 +1,5 @@
 ---
-title: Wiki
+title: /Wiki
 tags:
   - Main
 ---

@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Celestial Mind",
+    pageTitle: "Celestial Entity",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

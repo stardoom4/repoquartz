@@ -1,5 +1,5 @@
-## All Notes
-Notes in this Garden.
+
+![Notes](https://raw.githubusercontent.com/hugo-apero/hugo-apero/main/static/img/papillons.jpg)
 
 [[Big Bang]] 
 [[Dirac Sea]] 
@@ -8,3 +8,4 @@ Notes in this Garden.
 [[Singularity]] 
 [[Moravec Paradox]] 
 [[cosmic microwave background]] 
+[[Relation between Psychology and Entropy]] 

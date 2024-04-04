@@ -38,4 +38,5 @@ export const defaultListPageLayout: PageLayout = {
 }
 Component.Explorer({
   filterFn: undefined, // apply no filter function, every file and folder will visible
-})
+}),
+]

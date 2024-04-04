@@ -9,3 +9,6 @@
 [[Moravec Paradox]] 
 [[cosmic microwave background]] 
 [[Relation between Psychology and Entropy]] 
+[[Grand Unified theory]]
+[[nebulae]]
+[[Active Nucleus Galaxy]]

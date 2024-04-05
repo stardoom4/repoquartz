@@ -8,6 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/stardoom4", 
+      Bookmarks: "https://raindrop.io/Celestial-Entity/main-43067410",
+      Revered-Mother: "https://garud.netlify.app/Bharat-Mata",
     },
   }),
 }

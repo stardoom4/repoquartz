@@ -32,5 +32,3 @@ This equation tells us that the product of wavelength and frequency is always co
 **Energy and frequency:**
 
 The energy carried by a single packet of light (a photon) is directly proportional to its frequency. Higher frequency translates to higher energy photons. This explains why violet light, with its higher frequency, carries more energy compared to red light.
-
-s deeper explanation provides a clearer understanding of the physics behind the frequency and wavelength of light. Do you have any specific questions or areas you'd like to explore further?

@@ -21,5 +21,3 @@ In physics, **blueshift** signifies a **decrease in wavelength**, manifesting as
 - Stars traversing towards our galaxy exhibit a subtle blueshift in their emitted light.
 - The approaching siren of an ambulance produces a blueshift, perceived as a higher-pitched sound.
 - Doppler ultrasound can identify areas with abnormal blood flow by detecting regions exhibiting blueshifted sound waves.
-
-I trust this refined explanation adheres to a more professional tone while maintaining accuracy and comprehensiveness. If you have further questions or specific areas you'd like to delve deeper into, feel free to ask!

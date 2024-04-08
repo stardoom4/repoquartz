@@ -1,9 +1,6 @@
-# Blue shift
-
-Owner: celestial entity
-Last edited time: February 13, 2024 11:01 AM
-Created time: February 13, 2024 10:58 AM
-
+---
+title: Blueshift
+---
 **Blueshift: A Compression of Wavelengths**
 
 In physics, **blueshift** signifies a **decrease in wavelength**, manifesting as an **increase in frequency**. Essentially, the waves, including light, are compressed, shifting their position on the spectrum towards the **blue end**.
